@@ -1,0 +1,5 @@
+internal/boce-wac-project-ambulance_wl/api_*
+internal/boce-wac-project-ambulance_wl/model_*
+internal/boce-wac-project-ambulance_wl/routers.go
+build/
+deployments/
