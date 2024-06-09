@@ -1,0 +1,4 @@
+internal/boce_wac_project_ambulance_wl/README.md
+internal/boce_wac_project_ambulance_wl/api_appointments_list.go
+internal/boce_wac_project_ambulance_wl/model_appointments_list.go
+internal/boce_wac_project_ambulance_wl/routers.go
