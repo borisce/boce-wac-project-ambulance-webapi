@@ -21,7 +21,7 @@ switch ($command) {
     "start" {
         try {
             mongo up --detach
-            go run ${ProjectRoot}/cmd/ambulance-api-service
+            go run ${ProjectRoot}/cmd/boce-wac-project-ambulance-api-service
         } finally {
             mongo down
         }    
