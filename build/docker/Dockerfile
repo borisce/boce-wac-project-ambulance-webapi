@@ -63,4 +63,4 @@ COPY --from=build /app/boce-wac-project-ambulance-webapi-srv ./
 # Actual port may be changed during runtime
 # Default using for the simple case scenario
 EXPOSE 8080
-ENTRYPOINT ["./ambulance-webapi-srv"]
+ENTRYPOINT ["./boce-wac-project-ambulance-webapi-srv"]
